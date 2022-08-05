@@ -7,7 +7,66 @@
         <title>Shopping Cart</title>
         <!-- Style Css File -->
         <link rel="stylesheet" href="../shopping cart/style.css">
+        <!-- Font Awesome Link -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">
     </head>
     <body>
+        <!-- Start Header -->
+        <header id="header">
+            <!-- Navigation -->
+            <div class="nav">
+                <!-- Logo -->
+                <a href="index.html" class="logo">
+                    <h3>shopping</h3>
+                </a>
+
+                <!-- Cart Btn -->
+                <a href="#" class="cart-btn">
+                    <i class="fas fa-shopping-cart"></i>
+                    <span class="cart-items">0</span>
+                </a>
+            </div>
+        </header>
+        <!-- End Header -->
+<!--========================================================================-->
+        <!-- Start Products Section -->
+        <section id="products">
+            <div class="container">
+                <!-- Title -->
+                <h2 class="sec-title">shopping products</h2>
+
+                <!-- Row -->
+                <div class="row">
+                </div>
+            </div>
+        </section>
+        <!-- End Products Section -->
+<!--========================================================================-->
+        <!-- Start Cart Sidebar -->
+        <div class="cart-overlay">
+            <!-- Cart Offcanvas -->
+            <div class="cart-offcanvas">
+                <button class="close-cart">
+                    <i class="fas fa-times"></i>
+                </button>
+                <!-- Cart Title -->
+                <h3 class="cart-title">your cart</h3>
+
+                <!-- Cart Content -->
+                <div class="cart-content">
+                </div>
+
+                <!-- Cart Footer -->
+                <div class="cart-footer">
+                    <!-- Total Price -->
+                    <div>total: <span class="total"></span></div>
+                    <button id="clear-cart">clear cart</button>
+                </div>
+            </div>
+        </div>
+        <!-- End Cart Sidebar -->
+<!--========================================================================-->
+        <!-- Main Js File -->
+        <script src="../shopping cart/js/main.js"></script>
     </body>
 </html>

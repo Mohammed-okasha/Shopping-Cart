@@ -2,85 +2,85 @@
     {
         "id": 1,
         "name": "Casual Shirt",
-        "price": 45,
+        "price": 45.00,
         "descr": "Lorem ipsum dolor sit amet consectetur adipisicing.",
-        "img": "../images/img-1.jpg"
+        "img": "./images/1-a.jpg"
     },
     {
         "id": 2,
         "name": "Office Shirt",
-        "price": 100,
+        "price": 100.00,
         "descr": "Lorem ipsum dolor sit amet consectetur adipisicing.",
-        "img": "../images/img-2.jpg"
+        "img": "./images/2-a.jpg"
     },
     {
         "id": 3,
         "name": "T Shirt",
-        "price": 45,
+        "price": 40.00,
         "descr": "Lorem ipsum dolor sit amet consectetur adipisicing.",
-        "img": "../images/img-3.jpg"
+        "img": "./images/3-a.jpg"
     },
     {
         "id": 4,
         "name": "Mens Suit",
-        "price": 45,
+        "price": 125.00,
         "descr": "Lorem ipsum dolor sit amet consectetur adipisicing.",
-        "img": "../images/img-4.jpg"
+        "img": "./images/4-a.jpg"
     },
     {
         "id": 5,
         "name": "Mens Tie",
-        "price": 45,
+        "price": 25.00,
         "descr": "Lorem ipsum dolor sit amet consectetur adipisicing.",
-        "img": "../images/img-5.jpg"
+        "img": "./images/5-a.jpg"
     },
     {
         "id": 6,
         "name": "Casual shoes",
-        "price": 45,
+        "price": 55.00,
         "descr": "Lorem ipsum dolor sit amet consectetur adipisicing.",
-        "img": "../images/img-6.jpg"
+        "img": "./images/6-a.jpg"
     },
     {
         "id": 7,
         "name": "black suit",
-        "price": 45,
+        "price": 135.00,
         "descr": "Lorem ipsum dolor sit amet consectetur adipisicing.",
-        "img": "../images/img-7.jpg"
+        "img": "./images/7-a.jpg"
     },
     {
         "id": 8,
         "name": "polo shirt",
-        "price": 45,
+        "price": 90.00,
         "descr": "Lorem ipsum dolor sit amet consectetur adipisicing.",
-        "img": "../images/img-8.jpg"
+        "img": "./images/8-a.jpg"
     },
     {
         "id": 9,
         "name": "denim shirt",
-        "price": 45,
+        "price": 65.00,
         "descr": "Lorem ipsum dolor sit amet consectetur adipisicing.",
-        "img": "../images/img-9.jpg"
+        "img": "./images/9-a.jpg"
     },
     {
         "id": 10,
         "name": "denim pants",
-        "price": 45,
+        "price": 50.99,
         "descr": "Lorem ipsum dolor sit amet consectetur adipisicing.",
-        "img": "../images/img-10.jpg"
+        "img": "./images/10-a.jpg"
     },
     {
         "id": 11,
         "name": "basic cap",
-        "price": 45,
+        "price": 15.00,
         "descr": "Lorem ipsum dolor sit amet consectetur adipisicing.",
-        "img": "../images/img-11.jpg"
+        "img": "./images/11-a.jpg"
     },
     {
         "id": 12,
         "name": "leather boots",
-        "price": 45,
+        "price": 77.50,
         "descr": "Lorem ipsum dolor sit amet consectetur adipisicing.",
-        "img": "../images/img-12.jpg"
+        "img": "./images/img-4.jpg"
     }
 ]
